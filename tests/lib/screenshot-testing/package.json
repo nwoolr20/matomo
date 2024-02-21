@@ -14,7 +14,7 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
     "url-parse": "^1.5.3",
-    "@testomatio/reporter": "^1.0.9",
+    "@testomatio/reporter": "^1.2.0",
     "mocha-multi-reporters": "^1.5.1"
   }
 }
